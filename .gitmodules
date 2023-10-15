@@ -1,0 +1,6 @@
+[submodule "third-party/tinygltf"]
+	path = third-party/tinygltf
+	url = https://github.com/syoyo/tinygltf.git
+[submodule "third-party/glTF-Sample-Models"]
+	path = third-party/glTF-Sample-Models
+	url = https://github.com/KhronosGroup/glTF-Sample-Models.git

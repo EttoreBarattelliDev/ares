@@ -1,0 +1,2 @@
+add_subdirectory(gltf_test)
+add_subdirectory(normal_map_test)
